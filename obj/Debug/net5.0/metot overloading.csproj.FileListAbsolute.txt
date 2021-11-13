@@ -1,0 +1,16 @@
+D:\yazılım\pratikler\metot overloading\obj\Debug\net5.0\metot overloading.csproj.AssemblyReference.cache
+D:\yazılım\pratikler\metot overloading\obj\Debug\net5.0\metot overloading.GeneratedMSBuildEditorConfig.editorconfig
+D:\yazılım\pratikler\metot overloading\obj\Debug\net5.0\metot overloading.AssemblyInfoInputs.cache
+D:\yazılım\pratikler\metot overloading\obj\Debug\net5.0\metot overloading.AssemblyInfo.cs
+D:\yazılım\pratikler\metot overloading\obj\Debug\net5.0\metot overloading.csproj.CoreCompileInputs.cache
+D:\yazılım\pratikler\metot overloading\bin\Debug\net5.0\metot overloading.exe
+D:\yazılım\pratikler\metot overloading\bin\Debug\net5.0\metot overloading.deps.json
+D:\yazılım\pratikler\metot overloading\bin\Debug\net5.0\metot overloading.runtimeconfig.json
+D:\yazılım\pratikler\metot overloading\bin\Debug\net5.0\metot overloading.runtimeconfig.dev.json
+D:\yazılım\pratikler\metot overloading\bin\Debug\net5.0\metot overloading.dll
+D:\yazılım\pratikler\metot overloading\bin\Debug\net5.0\ref\metot overloading.dll
+D:\yazılım\pratikler\metot overloading\bin\Debug\net5.0\metot overloading.pdb
+D:\yazılım\pratikler\metot overloading\obj\Debug\net5.0\metot overloading.dll
+D:\yazılım\pratikler\metot overloading\obj\Debug\net5.0\ref\metot overloading.dll
+D:\yazılım\pratikler\metot overloading\obj\Debug\net5.0\metot overloading.pdb
+D:\yazılım\pratikler\metot overloading\obj\Debug\net5.0\metot overloading.genruntimeconfig.cache
